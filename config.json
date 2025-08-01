@@ -1,7 +1,7 @@
 {
-  "input": "./gallery",
+  "input": "./video",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Video Player",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
